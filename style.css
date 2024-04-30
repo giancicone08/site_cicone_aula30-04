@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    color: white;
+    background-color: rgb(80, 68, 68);
+}
+#div1{
+    padding: 10%;
+}
+.preencher-class{
+margin-right: 10px;
+}
+button{
+    margin: 10px;
+}
